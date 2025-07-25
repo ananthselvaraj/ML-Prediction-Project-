@@ -13,9 +13,9 @@ Steps to Build Project:
 
 1. Create new environment
 
-'''
+```
 --python -m venv env
 --env/Scripts/activate
 --pip install -r requirements.txt
 
-'''
+```
